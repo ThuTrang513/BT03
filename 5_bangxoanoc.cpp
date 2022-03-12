@@ -2,7 +2,7 @@
 #include<string>
 using namespace std;
 int main(){
-   int a, b;
+   int a, b,C;
    cin >> a >> b;
    int x[a][b];
    int t = 1,m = a,n= b,p = 0;
